@@ -1,6 +1,7 @@
 # BOJ - BFS
 > * 소문난 칠공주 : (BackTracking, BFS)
 > * 연구소3 : (BFS, Graph Search, Samsung)
+> * 소수경로 : (BFS, Graph Search, isPrime)
 > * 탈출 : (BFS, Graph Search)
 > * Puyo Puyo : (BFS, Simulation)
 > * 연구소 : (BFS, Brute Force, Graph Search, Samsung)
