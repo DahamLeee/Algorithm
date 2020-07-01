@@ -3,8 +3,8 @@
 > * 연구소3 : (BFS, Graph Search, Samsung)
 > * 소수경로 : (BFS, Graph Search, isPrime)
 > * 탈출 : (BFS, Graph Search)
+> * 적록색약 : (BFS, DFS, Graph Search)
 > * Puyo Puyo : (BFS, Simulation)
 > * 연구소 : (BFS, Brute Force, Graph Search, Samsung)
 > * 인구 이동 : (BFS, Graph Theory, Graph Search, Simulation, Samsung)
 > * 아기 상어 : (BFS, Simultaion, Samsung)
-
